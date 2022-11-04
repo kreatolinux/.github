@@ -1,8 +1,6 @@
-<p align="left">
 <img src="https://github.com/Kreato-Linux/logo/blob/master/withtext.png"> 
-</p>
 
-## Kreato Linux
+# Kreato Linux
 Kreato Linux is an independent Linux(R) distribution focused on modularity, simplicity and code readability.
 
 It is inspired from projects such as KISS Linux and Gentoo.
