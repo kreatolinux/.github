@@ -5,6 +5,8 @@ Kreato Linux is an independent Linux(R) distribution focused on modularity, simp
 
 It is inspired from projects such as KISS Linux and Gentoo.
 
+Try it out with Docker! `docker run -it kreato/linux bash`
+
 # Get Started
 To compile a rootfs, you can use [nyaastrap](https://github.com/kreatolinux/nyaastrap)
 
