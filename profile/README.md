@@ -13,7 +13,7 @@ To compile a rootfs, you can use [nyaastrap](https://github.com/kreatolinux/nyaa
 # Contributing
 You can package things to [nyaa-repo](https://github.com/kreatolinux/nyaa-repo), improve code quality on Kreato Linux projects, or just be a tester and test the latest Docker and rootfs tarball builds.
 
-You can find documentation of how to package things on the manpages [on the nyaa repository](https://github.com/kreatolinux/nyaa).
+You can find documentation of how to package things on the manpages [on the nyaa repository](https://github.com/kreatolinux/nyaa3).
 
 Kreato Linux has a lot of projects and i do make mistakes. My code quality might be bad in some areas, but you can always contribute and improve them!
 
