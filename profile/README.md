@@ -8,7 +8,7 @@ It is inspired from projects such as KISS Linux and Gentoo.
 Try it out with Docker! `docker run -it kreato/linux bash`
 
 # Get Started
-To compile a rootfs, you can use [nyaastrap](https://github.com/kreatolinux/nyaastrap)
+To compile a rootfs, you can use [nyaastrap v3](https://github.com/kreatolinux/nyaa3)
 
 # Contributing
 You can package things to [nyaa-repo](https://github.com/kreatolinux/nyaa-repo), improve code quality on Kreato Linux projects, or just be a tester and test the latest Docker and rootfs tarball builds.
