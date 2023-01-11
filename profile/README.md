@@ -11,6 +11,7 @@ One of the easiest ways to try Kreato Linux is by using Docker.
 Our images exist both in GitHub Packages and Docker Hub. You can pull from whatever you want. The result will be the same.
 
 Pull the image: `docker pull kreato/builder:latest` or `docker pull ghcr.io/kreatolinux/builder:latest`
+
 And run it: `docker run -it kreato/builder bash`
 
 # Get Started
