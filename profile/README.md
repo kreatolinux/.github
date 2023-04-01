@@ -1,4 +1,4 @@
-<img src="https://github.com/Kreato-Linux/logo/blob/master/withtext.png"> 
+<img src="https://github.com/kreatolinux/logo/blob/master/withtext.png"> 
 
 # Kreato Linux
 Kreato Linux is an independent Linux(R) distribution focused on modularity, simplicity and code readability.
