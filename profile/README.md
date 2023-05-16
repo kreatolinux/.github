@@ -25,7 +25,3 @@ You can find documentation of how to package things on the manpages [on the sour
 Kreato Linux has a lot of projects and i do make mistakes. My code quality might be bad in some areas, but you can always contribute and improve them!
 
 Or you can be a tester and test the latest builds, which helps out more than you think!
-
-# Mirrors
-Kreato Linux is also available on these addresses;
-* [sauce.kreato.dev](https://sauce.kreato.dev/kreatolinux)
