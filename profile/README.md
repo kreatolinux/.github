@@ -8,9 +8,9 @@ It is inspired from projects such as KISS Linux and Gentoo.
 # Try it out!
 One of the easiest ways to try Kreato Linux is by using Docker.
 
-Our images exist both in GitHub Packages and Docker Hub. You can pull from whatever you want. The result will be the same.
+Our images exist in GitHub Packages, Docker Hub and git.kreato.dev. You can pull from whatever you want. The result will be the same.
 
-Pull the image: `docker pull kreato/builder:latest` or `docker pull ghcr.io/kreatolinux/builder:latest`
+Pull the image: `docker pull kreato/builder:latest` or `docker pull ghcr.io/kreatolinux/builder:latest` or `docker pull git.kreato.dev/kreatolinux/builder:latest`
 
 And run it: `docker run -it kreato/builder bash`
 
@@ -25,3 +25,6 @@ You can find documentation of how to package things on the manpages [on the sour
 Kreato Linux has a lot of projects and i do make mistakes. My code quality might be bad in some areas, but you can always contribute and improve them!
 
 Or you can be a tester and test the latest builds, which helps out more than you think!
+
+# Mirrors
+Kreato Linux Docker images and source code is [available on git.kreato.dev](https://git.kreato.dev/kreatolinux)
